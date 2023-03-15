@@ -12,4 +12,5 @@ while (i < listItems.length) {
     shoppingList.innerHTML += item;
     i++;  
 }
+console.log(listItems);
 
