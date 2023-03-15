@@ -29,11 +29,13 @@ h1 {
     margin-top: 100px;
     transition-duration: 1.2s;
     border-radius: 50px;
+    color: brown
 }
 
 h1:hover{
     font-size: 3rem;
     line-height: 50px;
+    color: rgb(70, 226, 43);
 }
 
 /* ul */
@@ -53,4 +55,5 @@ li {
 
 li:hover{
     font-size:2rem;
+    color: brown;
 }
